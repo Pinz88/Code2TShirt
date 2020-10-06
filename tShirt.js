@@ -1,1 +1,2 @@
-const tShirt = { color: 'white', size: 'Large', sloganFront: 'Hacktoberfest 2020'};
+const tShirt = { color: 'blue', size: 'Large', sloganFront: 'Hacktoberfest 2020'};
+console.log(tShirt);
