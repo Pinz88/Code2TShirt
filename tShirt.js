@@ -1,1 +1,1 @@
-const tShirt = { color: 'white'};
+const tShirt = { color: 'white', size: 'Large'};
