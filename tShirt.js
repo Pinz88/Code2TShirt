@@ -1,1 +1,1 @@
-const tShirt = {};
+const tShirt = { color: 'white'};
